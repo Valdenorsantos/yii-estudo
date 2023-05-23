@@ -1,0 +1,21 @@
+{
+    "name": "valdenor/yii-estudo",
+    "description": "Estudos do composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Valdenor\\YiiEstudo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valdenorsantos",
+            "email": "svaldenorsantos@gmail.com"
+        }
+    ],
+  
+    "require": {
+      
+        
+    }
+}

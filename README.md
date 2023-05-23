@@ -41,3 +41,8 @@ senha: root
 2. [Imagem - MySQL](https://hub.docker.com/_/mysql)
 3. [Imagem - phpMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
 3. [Como instalar - Docker e Docker Compose](#) 
+
+
+**Composer**
+
+1. [https://php.com.br/23?composer-mais-de-1000-bibliotecas-disponiveis-em-seu-projeto];
